@@ -14,6 +14,8 @@ In registration codes, there is one unique key for registration: TC ID No. You s
 
 ![profil](https://user-images.githubusercontent.com/73060548/158644113-1ec73f4a-b984-4254-9dc9-d6fc140b262f.jpeg)
 
+- Booking
+
 ![rezervasyon](https://user-images.githubusercontent.com/73060548/158643466-0279e492-f6aa-417b-a70e-05b3791edfb8.jpeg)
 
 - Check reservations
